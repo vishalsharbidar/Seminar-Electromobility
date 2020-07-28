@@ -1,4 +1,4 @@
-#Energy management in Hybrid vehicles with Matlab/Simulink
+Energy management in Hybrid vehicles with Matlab/Simulink
 
 Document Submission
 - Please find the report and presentation in the folder "Report and Presentation"
